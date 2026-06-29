@@ -8,6 +8,12 @@ LLM (Gemini) drafts a structured clinical report around that grade.
 > produced by an automated model and the report is AI-generated; both must be
 > reviewed by a qualified ophthalmologist. This is not a medical device.
 
+## Demo
+
+![DR grading with per-class severity probabilities and the preprocessed image](assets/demo_grading.png)
+
+![AI-generated structured clinical report](assets/demo_report.png)
+
 ## What it does
 
 1. You upload a retinal fundus image.
